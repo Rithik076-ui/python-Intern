@@ -25,8 +25,7 @@ while True:
         break
     else:
         print("!Try again your Account Number must be 15 digits")
-        print("HEllo")
-    
+
 acc_holder=input("Enter Your Account Holder's Name: ")
 print("\n[----------WELCOME TO SBI BANK----------]")
 ac=deposit(acc_number,acc_holder)
