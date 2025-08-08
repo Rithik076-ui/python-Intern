@@ -1,5 +1,7 @@
 # name=input("Enter the Name: ")
 # age=int(input('Enter your Age: '))
+game=input("enter your time")
+print(type(game))  
 # Gender=(input('Enter your Gender: '))
 # dateofbirth=input('Enter your Date of Birth: ')
 # nationality=input("Enter your Nationality: ")
